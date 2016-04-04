@@ -5,7 +5,8 @@ Required dependencies:  (should be default modules, but list them down below jus
 Modules: collections,itertools,heapq
 
 
-(Short summary of my code):
+
+# (Short summary of my code):
   1. average_degrees.py: read tweets from a json file input and continuously update hash tag graph (class structure defined in hashtag_graph.py).
   2. hashtag_graph.py: defiend a class called HashTagGraph. It maintains the following fields:
     * total (total number of degrees)
