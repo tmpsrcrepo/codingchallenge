@@ -1,5 +1,5 @@
 #this is just a test case. I used the example to validate my calculation
-#it's completely indepedent w/ averageCalculate.py
+#it's completely indepedent w/ average_degree.py
 
 from hashtag_graph import *
 import time
