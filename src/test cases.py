@@ -1,4 +1,4 @@
-#this is just a test case. I used the example to validate my calculation
+#this is just a test case. I used the provided example in the tutorial to validate my calculation
 #it's completely indepedent w/ average_degree.py
 
 from hashtag_graph import *
